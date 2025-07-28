@@ -6,17 +6,17 @@
 
 | 类型                                  | 头文件            | 简述                      |
 | ------------------------------------- | ----------------- | ------------------------- |
+| `array`                               | `<array>`         | 静态数组（C++11）         |
 | `vector`                              | `<vector>`        | 动态数组，支持随机访问    |
-| `deque`                               | `<deque>`         | 双端队列，支持头尾操作    |
 | `list`                                | `<list>`          | 双向链表                  |
 | `forward_list`                        | `<forward_list>`  | 单向链表（C++11）         |
-| `array`                               | `<array>`         | 静态数组（C++11）         |
 | `set`, `multiset`                     | `<set>`           | 有序集合（基于红黑树）    |
 | `map`, `multimap`                     | `<map>`           | 有序映射                  |
 | `unordered_set`, `unordered_multiset` | `<unordered_set>` | 无序集合（基于哈希表）    |
 | `unordered_map`, `unordered_multimap` | `<unordered_map>` | 无序映射                  |
 | `stack`                               | `<stack>`         | 栈，容器适配器            |
 | `queue`                               | `<queue>`         | 队列，容器适配器          |
+| `deque`                               | `<deque>`         | 双端队列，支持头尾操作    |
 | `priority_queue`                      | `<queue>`         | 优先队列（堆）            |
 | `bitset`                              | `<bitset>`        | 位数组                    |
 | `valarray`                            | `<valarray>`      | 面向数值计算的数组        |
