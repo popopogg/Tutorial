@@ -10,5 +10,4 @@
 ### 10. SpringData
 ### 11. SpringCache
 ### 12. Spring Security
-### 13. Spring Security
-### 14. SpringCloud
+### 13. SpringCloud
