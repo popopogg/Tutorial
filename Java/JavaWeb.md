@@ -9,17 +9,17 @@
    - 常见标签和样式（tlias 案例：顶部导航栏、搜索表单区域、底部版权区域）
    - 表单标签与表单项标签
    - 课程总结
-4. JavaScript 核心
-   - 课程介绍
+4. JavaScript 核心(包括ECMAScript，DOM，BOM)
+    - 课程介绍
    - 核心语法（引入方式、变量&数据类型、函数、自定义对象&JSON、DOM）
    - 事件监听（语法&常见事件、常见事件优化-JS 模块化）
-5. Vue 框架基础
+6. Vue 框架基础
    - 快速入门
    - 常用指令（v-for、v-bind&v-if&v-show、v-model 与 v-on）
-6. Ajax 技术
+7. Ajax 技术
    - 入门
    - 案例
-7. Vue 工程化与 ElementPlus
+8. Vue 工程化与 ElementPlus
    - Vue 工程化（介绍&环境准备、vue 项目介绍&开发流程、API 风格&案例）
    - ElementPlus（快速入门、常见组件：表格组件&分页组件、对话框组件&表单组件、案例）
 
